@@ -1,4 +1,4 @@
 # parkeerin-tim-1
-- **Maullidina Zairah** (@usernara): desain database dan backend
-- **Hafiz Nova Dwi Pranata** (@HafizNova): frontend dan UI/UX
+- **Maulidina Zairah** (@usernara): frontend dan UI/UX
+- **Hafiz Nova Dwi Pranata** (@HafizNova): desain database dan backend
 - **Haikal Adelia Putra** (@haikalkasep): dokumentasi dan testing
