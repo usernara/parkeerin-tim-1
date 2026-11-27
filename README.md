@@ -8,4 +8,4 @@
 
 ## Dokumen Laporan
 
-- [Laporan UAS (PDF)](docs/UAS_T1B_Kelompok-01.pdf)
+- [Laporan UAS (Word)](docs/UAS_T1B_Kelompok-01.docx)
